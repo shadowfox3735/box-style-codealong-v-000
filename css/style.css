@@ -45,13 +45,7 @@ figcaption {
 }
 
 .light-fade {
-  background: -o-linear-gradient(
-  top,
-  #efefef 0%,
-  #ffffff 24%,
-  #ffffff 68%,
-  #dddddd 100%
-);
+  
 }
 
 /*/////// MEDIA ////////*/
