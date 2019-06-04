@@ -238,7 +238,8 @@ header {
 }
 
 #navbar nav a.selected {
-  background: 333;
+  background: #ccc;
+  color: white;
 }
 
 /*////////// LOGO //////////*/
